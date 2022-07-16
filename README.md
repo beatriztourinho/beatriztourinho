@@ -1,5 +1,5 @@
 ## Beatriz Tourinho 🏳️‍🌈 
-#####*She/Her*
+##### *She/Her*
 
 <hr>
 
