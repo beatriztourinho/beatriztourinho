@@ -43,7 +43,7 @@ Feel free to share feedbacks, exchange ideas, and check out some of my projects 
 
 <hr>
 
-### 📫 How to reach me:
+### 📫 Click here to reach me:
 <br>
 <section align='center'>
   <a href = "https://wa.me/5571991081422">
