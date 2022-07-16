@@ -1,5 +1,5 @@
-## Beatriz Tourinho 🏳️‍🌈 
-##### *She/Her*
+## Beatriz Tourinho 🏳️‍🌈  <span style="font-size:16px">*She/Her*</span>
+
 
 <hr>
 
