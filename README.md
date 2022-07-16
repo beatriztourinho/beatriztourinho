@@ -1,4 +1,4 @@
-##🌈 Beatriz Tourinho *(She/Her)*
+## 🌈 Beatriz Tourinho *(She/Her)*
 
 
 
