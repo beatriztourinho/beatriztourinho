@@ -24,6 +24,7 @@ Feel free to share feedbacks, exchange ideas, and check out some of my projects 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title='GIT' width='40px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title='GITHUB' width='40px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title='FIGMA' width='40px' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title='PYTHON' width='40px'/>
 </section>
 
 <hr>
@@ -32,7 +33,6 @@ Feel free to share feedbacks, exchange ideas, and check out some of my projects 
 <br> 
 <section align='center'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title='JAVA' width='40px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title='PYTHON' width='40px'/>
   <img src="./icons/php.png" title='PHP' width='40px' />
   <img src="./icons/typescript.png" title='TYPESCRIPT' width='40px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title='DOCKER' width='40px' />
